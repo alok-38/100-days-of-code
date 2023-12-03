@@ -1,13 +1,13 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
+### Day 0: December 3, 2023 (Example 1)
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Brushed up on basic HTML and learnt a bit about JSON.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** HTML needs to be looked into from time to time and cannot be negleted.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [cat photo app](https://github.com/alok-38/free-code-camp/tree/main/cat-photo-app)
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
