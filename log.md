@@ -30,7 +30,7 @@
 
 <<<<<<< HEAD
 
-### Day 3: December 11, 2023
+### Day 4: December 11, 2023
 **Today's Progress**: Learnt how to install Ruby and the Rails framework. Learnt to accept user input and 
 print using puts and printf. 
 Learnt about Integers and floats and performed simple arithemetic
@@ -39,7 +39,6 @@ Worked with Strings and created a madlib game.
 **Thoughts**: Ruby is a fun language
 
 
-=======
 ### Day 3: December 8, 2023
 **Today's Progress**: Completed Part-1 of the Python MOOC hosted on [University of Helsinki MOOC site](https://www.mooc.fi/en/)
 
@@ -47,4 +46,3 @@ Worked with Strings and created a madlib game.
 
 **Link(s) to work**
 1. [Worked out examples and exercises](https://github.com/alok-38/100-days-of-code)
->>>>>>> ffe7b666e572b65cff7906727743f891eadf3360
