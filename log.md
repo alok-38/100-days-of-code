@@ -37,6 +37,7 @@ Worked with Strings and created a madlib game.
 
 **Thoughts**: Ruby is a fun language
 
+**Resources Used**: [learn to program](https://pragprog.com/titles/ltp3/learn-to-program-third-edition/)
 
 ### Day 3: December 8, 2023
 **Today's Progress**: Completed Part-1 of the Python MOOC hosted on [University of Helsinki MOOC site](https://www.mooc.fi/en/)
