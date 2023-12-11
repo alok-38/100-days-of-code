@@ -27,3 +27,14 @@
 
 **Link(s) to work**
 1. [Resource used](https://linuxconfig.org/how-to-setup-linux-apache-mysql-python-server)
+
+
+### Day 3: December 11, 2023
+**Today's Progress**: Learnt how to install Ruby and the Rails framework. Learnt to accept user input and 
+print using puts and printf. 
+Learnt about Integers and floats and performed simple arithemetic
+Worked with Strings and created a madlib game.
+
+**Thoughts**: Ruby is a fun language
+
+
