@@ -46,3 +46,12 @@ Worked with Strings and created a madlib game.
 
 **Link(s) to work**
 1. [Worked out examples and exercises](https://github.com/alok-38/100-days-of-code)
+
+### Day 5: December 15, 2023
+
+**Today's Progress**: Practiced writing a lot of HTML
+
+**Thoughts**: Writing good HTML is very important for both frontend and backend developers
+
+**Link(s) to work**
+1. [worked out code examples](https://github.com/alok-38/learn-enough)
