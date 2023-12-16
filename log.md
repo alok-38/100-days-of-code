@@ -55,3 +55,12 @@ Worked with Strings and created a madlib game.
 
 **Link(s) to work**
 1. [worked out code examples](https://github.com/alok-38/learn-enough)
+
+### Day 6: December 16, 2023
+
+**Today's Progress**: Practiced writing ruby programs involving arrays, functions and loops
+
+**Thoughts**: I'm enjoying every moment of it
+
+**Link(s) to work**
+1. [worked out code examples](https://github.com/alok-38/learn-enough)
