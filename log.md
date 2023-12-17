@@ -64,3 +64,13 @@ Worked with Strings and created a madlib game.
 
 **Link(s) to work**
 1. [worked out code examples](https://github.com/alok-38/learn-enough)
+
+### Day 7: December 17, 2023
+
+**Today's Progress**: Wrote a string reversal program using JavaScript without using any built in method.
+Also learnt how to render the output to the DOM
+
+**Thoughts**: Quite challenging and interesting.
+
+**Link(s) to work**:
+1. [worked out code examples](https://github.com/alok-38/learn-enough)
