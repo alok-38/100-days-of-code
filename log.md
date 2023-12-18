@@ -74,3 +74,12 @@ Also learnt how to render the output to the DOM
 
 **Link(s) to work**:
 1. [worked out code examples](https://github.com/alok-38/learn-enough)
+
+### Day 8: December 18, 2023
+
+**Today's Progress**: Got started with the Scrimba frontend career path
+
+**Thoughts**: The career path is awesome.
+
+**Link(s) to work**:
+1. [worked out code examples](https://github.com/alok-38/scrimba-frontend-developer)
