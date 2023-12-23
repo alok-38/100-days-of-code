@@ -83,3 +83,13 @@ Also learnt how to render the output to the DOM
 
 **Link(s) to work**:
 1. [worked out code examples](https://github.com/alok-38/scrimba-frontend-developer)
+
+
+### Day 9: December 23, 2023
+
+**Today's Progress**: Wrote a lot of Ruby programs associated with strings and arrays
+
+**Thoughts**: Ruby programs are really fun to write
+
+**Link(s) to work**:
+1. [worked out code examples](https://github.com/alok-38/learn-enough)
