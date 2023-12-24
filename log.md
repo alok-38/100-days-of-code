@@ -93,3 +93,12 @@ Also learnt how to render the output to the DOM
 
 **Link(s) to work**:
 1. [worked out code examples](https://github.com/alok-38/learn-enough)
+
+### Day 10: December 24, 2023
+
+**Today's Progress**: Performed a lot of array operations
+
+**Thoughts**: Ruby programs are really fun to write
+
+**Link(s) to work**:
+1. [worked out code examples](https://github.com/alok-38/learn-enough)
