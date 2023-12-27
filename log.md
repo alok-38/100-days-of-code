@@ -102,3 +102,12 @@ Also learnt how to render the output to the DOM
 
 **Link(s) to work**:
 1. [worked out code examples](https://github.com/alok-38/learn-enough)
+
+### Day 11: December 27, 2023
+
+**Today's Progress**: Learnt the basics of CSS Flexbox and the Box model
+
+**Thoughts**: Love working with flex containers
+
+**Link(s) to work**:
+1. [worked out code examples](https://github.com/alok-38/scrimba-frontend-developer)
