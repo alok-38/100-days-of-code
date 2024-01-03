@@ -111,3 +111,12 @@ Also learnt how to render the output to the DOM
 
 **Link(s) to work**:
 1. [worked out code examples](https://github.com/alok-38/scrimba-frontend-developer)
+
+### Day 12: January 3, 2023
+
+**Today's Progress**: Completed the Scrimbas hometown homepage project
+
+**Thoughts**: Making it mobile responsive is challenging
+
+**Link(s) to work**:
+1. [worked out code examples](https://github.com/alok-38/scrimba-frontend-developer)
