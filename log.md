@@ -120,3 +120,12 @@ Also learnt how to render the output to the DOM
 
 **Link(s) to work**:
 1. [worked out code examples](https://github.com/alok-38/scrimba-frontend-developer)
+
+### Day 13: January 4, 2023
+
+**Today's Progress**: Added extra features to the passenger counter app
+
+**Thoughts**: Loving every moment of it
+
+**Link(s) to work**:
+1. [worked out code examples](https://github.com/alok-38/scrimba-frontend-developer)
