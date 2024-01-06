@@ -112,7 +112,7 @@ Also learnt how to render the output to the DOM
 **Link(s) to work**:
 1. [worked out code examples](https://github.com/alok-38/scrimba-frontend-developer)
 
-### Day 12: January 3, 2023
+### Day 12: January 3, 2024
 
 **Today's Progress**: Completed the Scrimbas hometown homepage project
 
@@ -121,11 +121,20 @@ Also learnt how to render the output to the DOM
 **Link(s) to work**:
 1. [worked out code examples](https://github.com/alok-38/scrimba-frontend-developer)
 
-### Day 13: January 4, 2023
+### Day 13: January 4, 2024
 
 **Today's Progress**: Added extra features to the passenger counter app
 
 **Thoughts**: Loving every moment of it
+
+**Link(s) to work**:
+1. [worked out code examples](https://github.com/alok-38/scrimba-frontend-developer)
+
+### Day 14: January 6, 2024
+
+**Today's Progress**: Completed the basketball scorecard app
+
+**Thoughts**: Toughest project I have ever tackled in JavaScript
 
 **Link(s) to work**:
 1. [worked out code examples](https://github.com/alok-38/scrimba-frontend-developer)
