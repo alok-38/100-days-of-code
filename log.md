@@ -138,3 +138,12 @@ Also learnt how to render the output to the DOM
 
 **Link(s) to work**:
 1. [worked out code examples](https://github.com/alok-38/scrimba-frontend-developer)
+
+### Day 15: January 7, 2024
+
+**Today's Progress**: Created a really stupid chat app
+
+**Thoughts**: Learnt about the DOM, set time out function etc
+
+**Link(s) to work**:
+1. [worked out code examples](https://github.com/alok-38/scrimba-frontend-developer)
