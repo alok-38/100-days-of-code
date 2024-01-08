@@ -147,3 +147,14 @@ Also learnt how to render the output to the DOM
 
 **Link(s) to work**:
 1. [worked out code examples](https://github.com/alok-38/scrimba-frontend-developer)
+
+1. [worked out code examples](https://github.com/alok-38/scrimba-frontend-developer)
+
+### Day 16: January 8, 2024
+
+**Today's Progress**: Created a simple calculator app
+
+**Thoughts**: Learnt about the DOM, arrays and methods such as map and reduce
+
+**Link(s) to work**:
+1. [worked out code examples](https://github.com/alok-38/scrimba-frontend-developer)
