@@ -158,3 +158,12 @@ Also learnt how to render the output to the DOM
 
 **Link(s) to work**:
 1. [worked out code examples](https://github.com/alok-38/scrimba-frontend-developer)
+
+### Day 17: January 9, 2024
+
+**Today's Progress**: Created the Rock, Paper, Scissors game
+
+**Thoughts**: This involves the decision making process
+
+**Link(s) to work**:
+1. [worked out code examples](https://github.com/alok-38/scrimba-frontend-developer)
