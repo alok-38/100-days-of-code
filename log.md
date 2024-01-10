@@ -167,3 +167,12 @@ Also learnt how to render the output to the DOM
 
 **Link(s) to work**:
 1. [worked out code examples](https://github.com/alok-38/scrimba-frontend-developer)
+
+### Day 18: January 10, 2024
+
+**Today's Progress**: Got the UI for the password generator solo project (Scrimba) working
+
+**Thoughts**: Need to focus more on JS
+
+**Link(s) to work**:
+1. [worked out code examples](https://github.com/alok-38/scrimba-frontend-developer)
