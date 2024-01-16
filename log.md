@@ -179,9 +179,18 @@ Also learnt how to render the output to the DOM
 
 ### Day 19: January 13, 2024
 
-**Today's Progress**: Learnt hot to desgin a payment form
+**Today's Progress**: Learnt how to desgin a payment form
 
 **Thoughts**: Getting a hang of html and css
 
 **Link(s) to work**:
 1. [worked out code examples](https://github.com/alok-38/scrimba-frontend-developer)
+
+### Day 20 January 16, 2024
+
+**Today's Progress**: Created another personal site
+
+**Thoughts**: Getting a hang of html and css
+
+**Link(s) to work**:
+1. [worked out code examples](https://github.com/alok-38/mooc.fi)
